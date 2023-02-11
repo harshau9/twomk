@@ -1,5 +1,12 @@
 {
-  "five": [
-    { "id": 1, "title": "mock", "author": "harsha" }
-  ]
+  "users": [
+    {
+      "id": 1,
+      "username": "tom",
+      "image": "https://i.pinimg.com/736x/8b/16/7a/8b167af653c2399dd93b952a48740620.jpg",
+      "email": "tom@gmail.com",
+      "password": "tom"
+    }
+  ],
+  "blogs": []
 }
